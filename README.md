@@ -1,2 +1,0 @@
-# Kocovce_projekt
- 
